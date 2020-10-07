@@ -1,2 +1,2 @@
 # projeto01
- laboratorio de versionamento 
+ laboratório de versionamento 
