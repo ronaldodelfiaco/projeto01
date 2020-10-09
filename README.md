@@ -1,2 +1,2 @@
 # projeto01
- laboratório de versionamento 
+ laboratório de Gestão de Configuração de Software  
